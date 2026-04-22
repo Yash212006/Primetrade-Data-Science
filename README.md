@@ -4,7 +4,7 @@
 ## 🛠️ Setup & How to Run
 1. Ensure you have Python 3.8+ installed along with `pandas`, `numpy`, `matplotlib`, `seaborn`, and `scikit-learn`.
 2. Clone this repository.
-3. Place the two dataset files (`bitcoin_sentiment.csv` and `hyperliquid_trades.csv`) in the root directory.
+3. Place the two dataset files (`fear_greed_index.csv` and `historical_data.csv`) in the root directory.
 4. Run `trader_analysis.ipynb` sequentially from top to bottom.
 
 ---
